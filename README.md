@@ -9,4 +9,4 @@ go get -u github.com/apache/beam/sdks/v2/go/pkg/beam
 go install github.com/apache/beam/sdks/v2/go/examples/wordcount
 wordcount --input sample.txt --output output
 ```
-After following all the above commands the output file is generated wuith vemula_count
+After following all the above commands the output file is generated with vemula_count file.
